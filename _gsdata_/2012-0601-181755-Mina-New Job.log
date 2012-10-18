@@ -1,0 +1,16 @@
+FTP: Use MLST/MLSD command to list files
+===== 2012-06-01 18:17:56: Job 'New Job': SYNC started by User on computer 'Mina' =====
+New Job: ftp://preciouslives.net/public_html <-> /Applications/XAMPP/htdocs, SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3, ChangeLimit=10
+Delete File 'ftp://preciouslives.net/public_html/favicon.ico'
+Delete File 'ftp://preciouslives.net/public_html/projects alias'
+Copy Over '/Applications/XAMPP/htdocs/about.html' -> 'ftp://preciouslives.net/public_html/about.html'
+Copy Over '/Applications/XAMPP/htdocs/blog.php' -> 'ftp://preciouslives.net/public_html/blog.php'
+Copy Over '/Applications/XAMPP/htdocs/contact.html' -> 'ftp://preciouslives.net/public_html/contact.html'
+Copy Over '/Applications/XAMPP/htdocs/index.php' -> 'ftp://preciouslives.net/public_html/index.php'
+Copy Over '/Applications/XAMPP/htdocs/projects.html' -> 'ftp://preciouslives.net/public_html/projects.html'
+Copy Over '/Applications/XAMPP/htdocs/resume.html' -> 'ftp://preciouslives.net/public_html/resume.html'
+Save State File ftp://preciouslives.net/public_html/_gsdata_/_file_state_v4._gs
+Save State File /Applications/XAMPP/htdocs/_gsdata_/_file_state_v4._gs
+Items Synced OK: 8, Errors: 0
+===== 2012-06-01 18:18:06: Sync Completed. Time: 00:00:11, Speed: 12K/s =====
+

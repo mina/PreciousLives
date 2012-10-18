@@ -1,0 +1,12 @@
+FTP: Use MLST/MLSD command to list files
+===== 2012-05-31 22:41:54: Job 'New Job': SYNC started by User on computer 'Mina' =====
+New Job: ftp://preciouslives.net/public_html <-> /Applications/XAMPP/htdocs, SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3, ChangeLimit=10
+Copy Over '/Applications/XAMPP/htdocs/assets/css/bootstrap.css' -> 'ftp://preciouslives.net/public_html/assets/css/bootstrap.css'
+Close Modified Folder (mod-time, acl): /assets/css
+Copy Over '/Applications/XAMPP/htdocs/blogs/signup.php' -> 'ftp://preciouslives.net/public_html/blogs/signup.php'
+Close Modified Folder (mod-time, acl): /blogs
+Save State File ftp://preciouslives.net/public_html/_gsdata_/_file_state_v4._gs
+Save State File /Applications/XAMPP/htdocs/_gsdata_/_file_state_v4._gs
+Items Synced OK: 2, Errors: 0
+===== 2012-05-31 22:42:02: Sync Completed. Time: 00:00:10, Speed: 16K/s =====
+

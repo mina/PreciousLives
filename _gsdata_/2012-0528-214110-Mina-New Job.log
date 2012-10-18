@@ -1,0 +1,14 @@
+FTP: Use MLST/MLSD command to list files
+===== 2012-05-28 21:41:12: Job 'New Job': SYNC started by User on computer 'Mina' =====
+New Job: ftp://preciouslives.net/public_html <-> /Applications/XAMPP/htdocs, SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3, ChangeLimit=10
+Copy Over 'ftp://preciouslives.net/public_html/blogs/testblog/error_log' -> '/Applications/XAMPP/htdocs/blogs/testblog/error_log'
+Close Modified Folder (mod-time, acl): /blogs/testblog
+2012-05-28 21:41:14: Paused
+Save State File 
+- ERROR: Cannot upload temp state file: cannot send RETR/LIST: Stopped by User
+Save State File /Applications/XAMPP/htdocs/_gsdata_/_file_state_v4._gs
+Sync finished with 1 errors. Click Errors button to see sync errors
+Items Synced OK: 1, Errors: 1
+FTP error sending, will try fast reconnect: stopped by user
+===== 2012-05-28 21:41:26: Sync Completed. Time: 00:00:16, Speed: 4096/s =====
+

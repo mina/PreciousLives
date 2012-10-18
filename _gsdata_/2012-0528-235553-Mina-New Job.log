@@ -1,0 +1,17 @@
+FTP: Use MLST/MLSD command to list files
+===== 2012-05-28 23:55:55: Job 'New Job': SYNC started by User on computer 'Mina' =====
+New Job: ftp://preciouslives.net/public_html <-> /Applications/XAMPP/htdocs, SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3, ChangeLimit=10
+Create Folder '/Applications/XAMPP/htdocs/blogs/test'
+Copy Over '/Applications/XAMPP/htdocs/assets/js/blog.js' -> 'ftp://preciouslives.net/public_html/assets/js/blog.js'
+Close Modified Folder (mod-time, acl): /assets/js
+Copy New 'ftp://preciouslives.net/public_html/blogs/error_log' -> '/Applications/XAMPP/htdocs/blogs/error_log'
+Copy Over '/Applications/XAMPP/htdocs/blogs/index.php' -> 'ftp://preciouslives.net/public_html/blogs/index.php'
+Copy New 'ftp://preciouslives.net/public_html/blogs/test/index.php' -> '/Applications/XAMPP/htdocs/blogs/test/index.php'
+Close Modified Folder (mod-time, acl): /blogs/test
+Close Modified Folder (mod-time, acl): /blogs
+Copy Over '/Applications/XAMPP/htdocs/error_log' -> 'ftp://preciouslives.net/public_html/error_log'
+Save State File ftp://preciouslives.net/public_html/_gsdata_/_file_state_v4._gs
+Save State File /Applications/XAMPP/htdocs/_gsdata_/_file_state_v4._gs
+Items Synced OK: 6, Errors: 0
+===== 2012-05-28 23:56:02: Sync Completed. Time: 00:00:09, Speed: 12K/s =====
+
